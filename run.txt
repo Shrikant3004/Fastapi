@@ -1,0 +1,8 @@
+$env:PATH += ";C:\Users\shrik\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Scripts"
+uvicorn filename:appname --reload  
+
+
+postgres password: Sangita@1
+
+#  e.g.:   uvicorn 3:app --reload 
+           uvicorn app.3:app --reload
